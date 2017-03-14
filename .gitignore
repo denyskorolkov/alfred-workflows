@@ -1,0 +1,7 @@
+*/persist
+*/.node-persist
+*/.tags
+user.workflow.*
+alfred-keycode
+*/node_modules
+.DS_Store

@@ -1,0 +1,7 @@
+{
+    "name": "example-alfred-workflow-nodejs",
+    "main": "main.js",
+    "dependencies": {
+        "alfred-workflow-nodejs": "^2.0.1"
+    }
+}
